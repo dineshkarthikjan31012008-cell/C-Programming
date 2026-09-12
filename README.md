@@ -24,6 +24,7 @@ This repository contains my C programming solutions, coding practice, and proble
 | [0009](LeetCode/0009_palindrome_number.c) | Palindrome Number |
 | [0231](LeetCode/0231_power_of_two.c) | Power of Two |
 | [1342](LeetCode/1342_number_of_steps.c) | Number of Steps to Reduce a Number to Zero |
+| [1295](LeetCode/1295_find_numbers_with_even_number_of_digits.c) | Find Numbers with Even Number of Digits |
 
 ## 🎯 Goal
 

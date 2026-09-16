@@ -41,6 +41,7 @@ Currently learning C Programming, Data Structures, Algorithms, and Problem Solvi
 ## 🛠️ Language
 
 - C
+- Python
 
 ## 🚀 Future Plans
 

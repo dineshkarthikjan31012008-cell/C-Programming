@@ -1,0 +1,15 @@
+//problem 7
+int reverse(int x){
+    long n=x ;
+    int t;
+    long reverse = 0;
+    while(n!=0)
+{
+    t = n%10;
+    reverse = reverse*10+t;
+    n = n/10;
+    if(reverse<INT_MIN||reverse>INT_MAX)
+    return 0;
+}
+return (int)(reverse);
+}
